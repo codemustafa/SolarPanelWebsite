@@ -1,12 +1,18 @@
 body{
     background-color: lightblue;
-    font-family: georgia
+    font-family: georgia;
+    display:block;
+    text-align: center
+}
+
+header{
+    
 }
 
 h1{
     font-size: 40px;
     background-color: rgba(250, 228, 34, 0.836);
-    display:inline-block
+    display:inline-block;
 }
 
 #slogan{
