@@ -6,6 +6,7 @@
 
 ### Start
 - delegating tasks more clearly before sprint instead of halfway through
+- keep kanban board updated throughout the sprint even when working on new tasks
 
 ### Continue
 - working in collaboration so everyone is on the same page
